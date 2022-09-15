@@ -9,7 +9,7 @@ import (
 )
 
 // Key length in bytes
-const KEY_LENGTH = 8
+const KEY_LENGTH = 1024
 
 // Helper function for generating random bytes
 func randomBytes() []byte {
